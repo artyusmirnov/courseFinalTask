@@ -1,0 +1,1 @@
+Обработка портирована с сайта ИТС (http://its.1c.ru/db/metod8dev#content:4126:hdoc)
