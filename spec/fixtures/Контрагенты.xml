@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:core="http://v8.1c.ru/data" xmlns:v8="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<v8:CatalogObject.Контрагенты>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">a198bb44-8eb6-11e6-bedc-080027b22397</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000001</v8:Code>
+			<v8:Description>Иванов П. С. ИП</v8:Description>
+		</v8:CatalogObject.Контрагенты>
+		<v8:CatalogObject.Контрагенты>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">bbfd666d-8eb6-11e6-bedc-080027b22397</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000002</v8:Code>
+			<v8:Description>Сидоров И. П. ИП</v8:Description>
+		</v8:CatalogObject.Контрагенты>
+		<v8:CatalogObject.Контрагенты>
+			<v8:Ref xsi:type="v8:CatalogRef.Контрагенты">c5b8cb13-8eb6-11e6-bedc-080027b22397</v8:Ref>
+			<v8:DeletionMark>false</v8:DeletionMark>
+			<v8:Code>000000003</v8:Code>
+			<v8:Description>Петров С. И. ИП</v8:Description>
+		</v8:CatalogObject.Контрагенты>
+	</V8Exch:Data>
+	<PredefinedData/>
+</V8Exch:_1CV8DtUD>
