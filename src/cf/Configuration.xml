@@ -550,6 +550,7 @@
 			<DataProcessor>РекомендацияПоПовышениюСкоростиРаботы</DataProcessor>
 			<DataProcessor>ИнструкцияПоИспользованиюПроверкиКонтрагента</DataProcessor>
 			<DataProcessor>ИнструментыРазработчикаПроверкаКонтрагентов</DataProcessor>
+			<DataProcessor>РасчетСебестоимости</DataProcessor>
 			<InformationRegister>АдресныеОбъекты</InformationRegister>
 			<InformationRegister>БезопасноеХранилищеДанных</InformationRegister>
 			<InformationRegister>ПараметрыРаботыВерсийРасширений</InformationRegister>
